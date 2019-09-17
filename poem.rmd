@@ -14,7 +14,13 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carrol in this section!--> 
+
+A boat beneath a sunny sky,      
+Lingering onward dreamily    
+In an evening of July —    
+Children three that nestle near,    
+Eager eye and willing ear,    
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -24,3 +30,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+There is a change—and I am poor;  
+Your love hath been, nor long ago,  
+A fountain at my fond heart's door,  
+Whose only business was to flow;  
+And flow it did; not taking heed  
+Of its own bounty, or my need.  
+
+What happy moments did I count!  
+Blest was I then all bliss above!  
